@@ -1,0 +1,9 @@
+Package: com.noahdev.spotlightblur
+Name: NoSpotlightBlur
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: NoSpotlightBlur removes blur in Spotlight to provide a more seamless experience
+Maintainer: NoahDev
+Author: NoahDev
+Section: Tweaks
